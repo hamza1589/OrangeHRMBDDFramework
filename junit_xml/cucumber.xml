@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="36.117897">
+<testcase classname="admin page" name="add a new user" time="13.71961">
+<system-out><![CDATA[Given user is on login page.................................................passed
+When title of the page is OrangeHRM.........................................passed
+Then user enter "Admin" and "admin123"......................................passed
+Then user clicks login button...............................................passed
+Then user is on homePage....................................................passed
+Then user click on admin tab................................................passed
+Then user clicks add button.................................................passed
+Then user enters details "Jacqueline White" and "qatester" and "Windows2010." and "Windows2010.".passed
+Then quit the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="admin page" name="add a new user 2" time="11.321173">
+<system-out><![CDATA[Given user is on login page.................................................passed
+When title of the page is OrangeHRM.........................................passed
+Then user enter "Admin" and "admin123"......................................passed
+Then user clicks login button...............................................passed
+Then user is on homePage....................................................passed
+Then user click on admin tab................................................passed
+Then user clicks add button.................................................passed
+Then user enters details "Ananya Dash" and "qatester1" and "Windows2010." and "Windows2010.".passed
+Then quit the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="admin page" name="add a new user 3" time="11.077114">
+<system-out><![CDATA[Given user is on login page.................................................passed
+When title of the page is OrangeHRM.........................................passed
+Then user enter "Admin" and "admin123"......................................passed
+Then user clicks login button...............................................passed
+Then user is on homePage....................................................passed
+Then user click on admin tab................................................passed
+Then user clicks add button.................................................passed
+Then user enters details "Charlie Carter" and "qatester2" and "Windows2010." and "Windows2010.".passed
+Then quit the browser.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
